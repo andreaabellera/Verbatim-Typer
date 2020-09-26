@@ -1,0 +1,14 @@
+C:\Users\Andrea\source\repos\Verbatim Typer\Verbatim Typer\bin\Debug\Verbatim Typer.exe.config
+C:\Users\Andrea\source\repos\Verbatim Typer\Verbatim Typer\bin\Debug\Verbatim Typer.exe
+C:\Users\Andrea\source\repos\Verbatim Typer\Verbatim Typer\bin\Debug\Verbatim Typer.pdb
+C:\Users\Andrea\source\repos\Verbatim Typer\Verbatim Typer\obj\Debug\Verbatim Typer.csprojAssemblyReference.cache
+C:\Users\Andrea\source\repos\Verbatim Typer\Verbatim Typer\obj\Debug\Verbatim_Typer.Form1.resources
+C:\Users\Andrea\source\repos\Verbatim Typer\Verbatim Typer\obj\Debug\Verbatim_Typer.Properties.Resources.resources
+C:\Users\Andrea\source\repos\Verbatim Typer\Verbatim Typer\obj\Debug\Verbatim Typer.csproj.GenerateResource.cache
+C:\Users\Andrea\source\repos\Verbatim Typer\Verbatim Typer\obj\Debug\Verbatim Typer.exe
+C:\Users\Andrea\source\repos\Verbatim Typer\Verbatim Typer\obj\Debug\Verbatim Typer.pdb
+C:\Users\Andrea\source\repos\Verbatim Typer\Verbatim Typer\obj\Debug\Verbatim_Typer.Form2.resources
+C:\Users\Andrea\source\repos\Verbatim Typer\Verbatim Typer\bin\Debug\Verbatim Typer.exe.manifest
+C:\Users\Andrea\source\repos\Verbatim Typer\Verbatim Typer\bin\Debug\Verbatim Typer.application
+C:\Users\Andrea\source\repos\Verbatim Typer\Verbatim Typer\obj\Debug\Verbatim Typer.exe.manifest
+C:\Users\Andrea\source\repos\Verbatim Typer\Verbatim Typer\obj\Debug\Verbatim Typer.application

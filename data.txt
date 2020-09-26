@@ -1,0 +1,5 @@
+@Rule of Sum
+#If a first task can be performed in m ways, while a second task can be performed in n ways, and the two tasks cannot be performed simultaneously, then performing either task can be accomplished in m + n ways.
+
+@Rule of Product
+#If a procedure can be broken down into the first and second stages, and if there are m possible outcomes for the first stage, and if, for each of these outcomes, there are n possible outcomes for the second stage, then the total procedure can be carried out, in the designated order m n ways.
