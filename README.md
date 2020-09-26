@@ -3,7 +3,7 @@
 Verbatim Typer is a study tool that allows you to memorize anything - verbatim!
 
 ## Status: Finished
-I created this study tool to help me memorize definitions for Discrete Math. More features can be added and interface can be significantly improved if needed.
+I created this study tool to help me memorize definitions for Discrete Math (*not fun* while it lasted). I would want to create an improved version with a better interface after my HCI studies. You know, the one that deserves a documentation.
 
 ### Files
 - Verbatim Typer.exe - Standalone executable to launch the application window
